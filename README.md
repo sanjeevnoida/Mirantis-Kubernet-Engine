@@ -25,3 +25,5 @@ ctivity setup for all the nodes ( Master and Workers )
    - launchpad apply --config launchpad.yaml
 
 6. Access the cluster and additionally you can add into the Mirantis Lens to manage.
+
+7. Finish
