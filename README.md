@@ -26,4 +26,4 @@ ctivity setup for all the nodes ( Master and Workers )
 
 6. Access the cluster and additionally you can add into the Mirantis Lens to manage.
 
-7. Finish
+7. Finish.
