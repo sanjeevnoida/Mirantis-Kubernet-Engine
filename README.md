@@ -8,7 +8,7 @@ How to install the Mirantis Kubernet Engine (MKE)
 ctivity setup for all the nodes ( Master and Workers )
 
 3. You can use any automation tool to deploy these VM's like ( ansible or terraform ).
-   You can use https://github.com/sanjeevnoida/kubernets-gcp-terraform-ansible.git to deploy the VMs.
+
 
 4. Download the lauchpad on bastion/normal server for your relevant OS in cluster ( MAC, Linux and Windows) from the below site or use the attached launchpad.
   -  make the binary executable
