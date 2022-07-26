@@ -20,7 +20,7 @@ spec:
   mke:
     version: 3.4.3
     adminUsername: admin
-    adminPassword: passw0rd!
+    adminPassword: *****
     installFlags:
     - --default-node-orchestrator=kubernetes
   mcr:
